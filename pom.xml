@@ -9,8 +9,8 @@
   
   <modules>
       <module>netty-catalina</module>
-
       <module>netty-chat</module>
+	  <module>netty-project</module>
   </modules>
   
   <properties>
@@ -22,7 +22,7 @@
      <dependency>
 			<groupId>io.netty</groupId>
 			<artifactId>netty-all</artifactId>
-			<version>4.1.25.Final</version>
+			<version>4.1.36.Final</version>
 		</dependency>
 
 		<dependency>
